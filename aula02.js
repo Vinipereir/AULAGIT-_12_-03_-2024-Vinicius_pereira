@@ -15,3 +15,4 @@ console.log (soma)
  
 let mensagem = " o valor é:";
 console.log(mensagem + resulatado); 
+//finalizado
