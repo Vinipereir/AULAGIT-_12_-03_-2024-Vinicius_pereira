@@ -3,7 +3,7 @@ let aux = 40 ;
 let a = 15;
 let b = 60;
 let c = 90;
-let d = 15;
+let d = 1;
 //teste linha 7
 
 // mostro a variavel para alguem
