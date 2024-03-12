@@ -6,7 +6,7 @@ let c = 20;
 let d = 15;
 //teste linha 7
 
-// mostro a variavel para alguem/devs no console.
+// mostro a variavel para alguem
 //console.log(a);
 
 let soma= a + b;
