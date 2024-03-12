@@ -12,5 +12,5 @@ let soma= a + b;
 console.log (soma)
 
  
-let mensagem = " o resultado é:";
+let mensagem = " o valor é:";
 console.log(mensagem + resulatado);
