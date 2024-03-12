@@ -1,6 +1,6 @@
 //aprendemos a iniciar/decalar variaveis.
 let aux = 40 ;
-let a = 10;
+let a = 15;
 let b = 20;
 let c = 20;
 let d = 15;
