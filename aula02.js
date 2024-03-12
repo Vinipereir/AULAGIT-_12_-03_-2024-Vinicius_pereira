@@ -12,7 +12,7 @@ let d = 15;
 let soma= a + b;
 console.log (soma)
 
- 
+ //mnsagem
 let mensagem = " o valor é:";
 console.log(mensagem + resulatado); 
 //finalizado
